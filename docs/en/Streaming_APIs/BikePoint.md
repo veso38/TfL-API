@@ -1,7 +1,7 @@
 {% extends "/docs.md" %}
 {% block content %}
 # BikePoint
-The following [Straming](https://en.wikipedia.org/wiki/WebSocket) API channels offer access to live data of shared bike points flowing through Transport for Luxembourg in real time.
+The following [Streaming](https://en.wikipedia.org/wiki/WebSocket) API channels offer access to live data of shared bike points flowing through Transport for Luxembourg in real time.
 Currently we're providing data from [Vel'oh](https://developer.jcdecaux.com/#/opendata/vls) and [Vel'ok](http://www.velok.lu/).
 
 ## License
